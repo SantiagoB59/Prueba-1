@@ -13,6 +13,7 @@ public class Ing_sw_2022_1 {
         System.out.println("Sergio");
 
         System.out.println("Sergio prueba ramas");
+        System.out.println("Sergio prueba de Master a Sergio Peñaloza");
     }
     
 }
