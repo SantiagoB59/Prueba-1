@@ -11,7 +11,6 @@ public class Ing_sw_2022_1 {
         System.out.println("Mayra");
         System.out.println("Santiago");
         System.out.println("Sergio");
-        System.out.println("Mayra desde git-2");
     }
     
 }
